@@ -34,8 +34,12 @@ KRAKEN_COINS_YF = ["BTC", "ETH", "XRP", "USDT", "ADA", "DOT1", "UNI3",
                    "DASH", "COMP", "SNX", "ETC", "ZEC", "BAT", "WAVES",
                    "YFI", "MANA", "ICX", "QTUM", "SC", "KAVA", "NANO",
                    "CRV", "OMG", "STORJ", "KNC", "LSK", "REP", "OXT",
-                   "EWT", "ANT", "MLN", "GNO", "DOGE"]
-                   # No Dai, The Graph, Flow, Keep, Ocean, Balancer, 
+                   "EWT", "ANT", "MLN", "GNO", "DOGE", "ZRX", "1INCH",
+                   "GHST", "ANKR", "REPV2", "AXS", "BADGER", "BNT",
+                   "BAND", "BNC", "CTSI", "CHZ", "CQT", "CRV", "DYDX",
+                   "ENJ", "INJ", "KAR", "LPT", "LRC", "MKR", "MINA",
+                   "MIR", "MOVR", "OGN", "OXY", "PAXG", "PERP", "PHA",
+                   "MATIC", "REN", "RARI", "RAY", "SDN", "SOL", "SUSHI",
+                   "SAND", "WBTC", "SHIB"]
+                   # No Dai, The Graph, Flow, Keep, Ocean, Balancer,
                    # Augur v2, Ethereum 2, PAX Gold or tBTC on YF? :(
-
-
